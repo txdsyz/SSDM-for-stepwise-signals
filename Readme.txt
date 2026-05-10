@@ -51,4 +51,13 @@ Steps:
 4. Run:python Specialized.py
 
 
+The dataset and pretrained models are available at Zenodo:
+
+Dataset:
+https://doi.org/10.5281/zenodo.18432190.
+
+Pretrained models (.pth):
+ https://doi.org/10.5281/zenodo.18417193.
+
+
 This project is released under the MIT License.
