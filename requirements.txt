@@ -1,0 +1,13 @@
+#  PyTorch Environment
+# Author's environment reference: torch==2.7.1+cu118 (CUDA 11.8)
+# It is recommended to install the latest stable version of torch compatible with your CUDA version and system.
+
+torch>=2.0.0
+triton>=3.0.0
+numpy>=2.0.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+pillow>=9.0.0
+pydantic>=2.0.0
